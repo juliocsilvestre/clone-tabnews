@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "description": "Projeto desenvolvido durante o curso da [Curso.dev](https://curso.dev), com o objetivo de replicar as funcionalidades principais da plataforma [TabNews](https://www.tabnews.com.br), utilizando tecnologias modernas de desenvolvimento web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
