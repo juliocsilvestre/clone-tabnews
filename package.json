@@ -4,7 +4,7 @@
   "description": "Projeto desenvolvido durante o curso da [Curso.dev](https://curso.dev), com o objetivo de replicar as funcionalidades principais da plataforma [TabNews](https://www.tabnews.com.br), utilizando tecnologias modernas de desenvolvimento web.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "next dev"
   },
   "author": "",
   "license": "MIT",
