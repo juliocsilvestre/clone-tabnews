@@ -1,3 +1,5 @@
+name: curso.dev
+
 services:
   database:
     image: "postgres:16.0-alpine3.18"
